@@ -1,7 +1,6 @@
 ![logo](https://github.com/AimanRizwan/aimanrizwan/blob/main/a1.png)
 
 
-<h1 align="center"> I'm Aiman Rizwan</h1>
 <h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
