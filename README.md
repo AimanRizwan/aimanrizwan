@@ -10,7 +10,7 @@
 
 ## About
 
-//Check my portfolio  <a href="" target="_blank" rel="noreferrer"> </a>
+  <a href="" target="_blank" rel="noreferrer"> </a>
 
 
 ## Languages and Tools:
