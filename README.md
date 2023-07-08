@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/aimanrizwan/" target="_blank"> Aiman  </a></h1>
-<h3 align="center"> <img src="" /> </h3>
+<h3 align="center"> </h3>
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://aimanrizwan.github.io/portfolio/" target="_blank">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
