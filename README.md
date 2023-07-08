@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/aimanrizwan/" target="_blank">Aiman Rizwan</a></h1>
+
 <p align="center">
   <img src="https://github.com/AimanRizwan/portfolio/blob/main/images/banner-1.png" alt="Profile Image" />
 </p>
