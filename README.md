@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/aimanrizwan/" target="_blank"> Aiman Rizwan </a></h1>
-<h3 align="center"><img src="(https://github.com/AimanRizwan/portfolio/blob/main/images/profile-1.png)"/>
+<h3 align="center"><img src="https://github.com/AimanRizwan/portfolio/blob/main/images/profile-1.png"/>
   </h3>
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://aimanrizwan.github.io/portfolio/" target="_blank">Portfolio</a>**
