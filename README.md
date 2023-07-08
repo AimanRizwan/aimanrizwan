@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/AimanRizwan/portfolio/blob/main/images/banner-1.png" alt="Profile Image" width="840" height="424" />
+  <img src="https://github.com/AimanRizwan/portfolio/blob/main/images/banner-1.png" alt="Profile Image" width=440" height="224" />
 </p>
 
 <p align="center">
